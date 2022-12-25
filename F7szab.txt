@@ -1,0 +1,176 @@
+Tartalomjegyzék/4
+Jogszabálylista/8
+Általános rész/9
+	A földmérési térképek osztályozása/9
+	A földmérési alaptérkép és annak átnézeti térképei/9
+	A földmérési térképek rendszere/9
+		Vetületi rendszer és alapszint/9
+		Koordináta-rendszer és szelvényezés/9
+		A térképszelvények országos számozása/10
+	A földmérési alaptérkép méretaránya/10
+	A földmérési alaptrékép szelvényezése és községenkénti sorszámozása/11
+		Szelvényezés/11
+		Községenkénti sorszámozás/11
+	A külterületi átnézeti térkép szelvényrendszere/11
+	A földmérési alap- és az átnézeti térkép készítésének módszerei/12
+		A földmérési alaptérkép sikrajzi tartalmának előállítása/12
+		A földmérési alaptérkép magassági tartalmának előállitása/12
+		Az átnézeti térkép tartalmának előállítása/13
+	A földmérési alaptérkép alapponthálózata/13
+		Vízszintes alappontok/13
+		Vetületi átszámítások/14
+		Magassági alappontok/16
+	Koordinátajegyzék/16
+		A koordinátajegyzék felfektetése/16
+		Részletpontok koordinátajegyzéke/17
+A földmérési alaptérkép tartalma/18
+	A földmérési alaptérkép tartalmának általános összefoglalása/18
+		A tartalomról általában/18
+		A különleges rendeltetésü ingatlanok/18
+		A felmérés idején bekövetkezett változások/19
+	A földmérési alaptérkép sikrajzi tartalmának részletezése/19
+		Alap- és részletpontok/19
+			Alappontok/19
+			Részletpontok/20
+		Határvonalak/20
+		Falak, támfalak, keritések, földművek stb./21
+		Épületek, építmények és tartozékaik/22
+		Közutak, utak, utcák, közterek/24
+		Vasutak, közúti villamos és műtárgyaik/26
+		Vizek, szigetek, vizekkel kapcsolatos létesítmények/27
+		Vezetékek, függőpályák/28
+		Aknák, barlangok, pincék, élőfák és egyéb tereptárgyak/29
+	Művelési ágak, halastó és művelés alól kivett területek/30
+		Szántó/30
+		Gyep/31
+		Szőlő/32
+		Kert/32
+		Gyümölcsös/32
+		Nádas/33
+		Erdő/33
+		Halastó/34
+		Művelés alól kivett terület/34
+	A földmérési alaptérképek domborzati tartalmának általános összefoglalása/38
+		A domborzatábrázolás módja/38
+		A domborzatábrázolás tartalma/38
+	A földmérési alaptérkép domborzati tartalmának részletezése/38
+		Magassági alappontok/38
+		Magassági részletpontok/39
+		A szintvonalas ábrázolás tartalmi előírásai/40
+		A kótált pontokkal történő magassági ábrázolás tartalmi előírásai/40
+		Jellel ábrázolandó domborzati elemek/41
+		A topográfiai térkép néhány – a domboszatátszerkesztéshez felhasználandó adatának értelmezése/42
+Az átnézeti térképek tartalma/43
+	Az 1:10 000 méretarányú külterületi átnézeti térkép tartalma/43
+		Általános szempontok/43
+		Külterület/43
+		Belterület, külterületi lakotthely és zártkert/44
+	A nagyobb méretarányban térképezett külterületek és zártkertek ábrázolása az 1:4ooo méretarányú földmérési alaptérképen/44
+	A belterület ábrázolása az 1:4ooo méretarányú földmérési alaptérképen/44
+A község, a belterület és a zártkert elhatárolása/46
+	A község (város, városi kerület) elhatárolása/46
+		Általános előírások/46
+		A határvonal egyeztetése új felmérésnél és térképátalakitásnál/46
+		Az államigazgatási határvonal módosítása/47
+	A belterület elhatárolása/48
+		Általános előírások/48
+		A belterület határvonalának egyeztetése uj felmérésnél és térképátalakításnál/49
+	A zártkert elhatárolása/50
+	A község és a fekvések határvonalának átszerkesztésével kapcsolatos irodai teendők térképátalakítás során/50
+Földrészletek kialakítása és elhatárolása, alrészletek, kialakítása/51
+	A földrészletek kialakításának elvei/51
+	A földrészletek elhatárolása/53
+	Alrészletek kialakitása/56
+Adatszolgáltatás a földmérési alaptérképkészítéshez/59
+	A megyei földhivatal által szolgáltatandó munkarészek/59
+		Földmérési munkarészek/59
+		Ingatlannyilvántartási munkarészek/59
+	A FÖMI Földmérési és Adattári Főosztálya által szolgáltatandó munkarészek/60
+Részletmérés/61
+	Tömbök, tömbcsoportok kialakítása/61
+	A részletmérés általános elvei/61
+	Mérési vázlat (tömbrajz), részletmérési jegyzőkönyv/61
+		Általános előírások/61
+		Domborzati kiegészitő mérések mérési vázlata/64
+		Az eredeti mérési vázlatok kezelése térképátalakítás során/64
+Térképezés/65
+	Általános előírások/65
+	Kereten túli tépképezések, csatlakozások/66
+	Térképezés térképátalakítás esetén /67
+		Az átdolgozási alaptérkép kiegészitése/67
+		Az átdolgozási alaptérkép sikrajzi tartalma átszerkesztésének néhány technológiai változata/67
+	A domborzati tartalom térképezése/69
+		A domborzatábrázolás általáhos előírásai/69
+		Domborzatátszerkesztési alapelvek meglévő térképi tartalom felhasználása esetén/70
+		Az 1:2000 vagy annál nagyobb méretarányú domborzati térképről való domborzatátszerkesztés alapelvei/71
+		Domborzatrajz átszerkesztése a topográfiai térképről/71
+	Kirajzolás és alkalmazandó vonaltípusok/72
+		Síkrajzi kirajzolás/72
+		Domborzatrajzi kirajzolás/73
+	Megírások a földmérési alaptérképen/74
+		Szelvénykereten kivüli megírások, magyarázó ábrák/74
+		Szelvénykereten belüli megírások/76
+			A sikrajzi és domborzati megírások általános előírásai/76
+			Település- és területnevek/77
+			Vonalas létesítmények megírása/78
+			Egyéb földrészletek és tereptárgyak megírása/78
+ 			Röviditések alkalmazása a megírásokban/79
+	Mérettartó müanyaglap-másolat és címlap készítése/79
+	Az 1:10 000 méretarányú külterületi átnézeti térkép előállítása/80
+Földrészletek helyrajziszámozása/81
+	A helyrajziszámozás általános előirásai/81
+ 			Vegyes rendelkezések/81
+			Külterületi földrészletek helyrajziszámozása/81
+			Belterületi földrészletek helyrajziszámozása/82
+			Zártkerti földrészletek helyrajziszámozása/82
+	Változott földrészletek helyrajziszámozása/82
+	Földrészletek átszámozása/83
+	Helyrajziszámozás igazgatási egység határvonalának változása esetén/83
+	Helyrajziszámozás igazgatási egységek egyesítése és uj község alakulása esetén/84
+	Helyrajziszámozás fekvéshatárvonal-változás esetén/84
+	A helyrajzi számok feltüntetése a térképen/84
+	Az alrészletek megjelölése/85
+Területszámítás/87
+	Számítási alapelvek/87
+	Területszámítás új felmérés esetén/88
+	Területszámitás térképátalakítás esetén/89
+	Területjegyzék/90
+A földmérési alaptérkép pontossági előírásai/91
+	Vízszintes alappontok/91
+	Magassági alappontok és magassági illesztőpontok/92
+	Vízszintes részletpontok/92
+	Magassági részletpontok/93
+	Szelvénykeret, őrkereszthálózat, szerkesztés, koordinátalemérés térképről/94
+	Térképi csatlakozások/95
+	Földrészlethatárra vonatkozó térkép- terepazonossági feltétel/95
+	Grafikus térképi átszerkesztések, digitalizálás/95
+	Területszámitás/96
+Készítendő munkarészek/99
+	Általános megjegyzések/99
+	Az elektronikus számoló- és számitógépekkel végzett számítások dokumentálásának alapelvei/99
+	Általános munkarészek/100
+	Alappontsűritési munkarészek/100
+	Előkészítő és elhatárolási munkarészek/100
+	Felmérési munkarészek/100
+	Síkrajz- és domborzatátszerkesztési munkarészek/101
+	Térképek/101
+	Területszámítási munkarészek/101
+A földmérési alaptérkép minőségének vizsgálata és tanúsítás/102
+	A minőség vizsgálatának és tanúsításának általános elvei/102
+	A felmérést végző szerv belső vizsgálata/102
+		Általános szempontok/102
+		A teljes körű belső vizsgálat feladatai/103
+		A részleges belső vizsgálat feladatai/104
+	A felmérést végző szerv minősítő vizsgálata/104
+		Általános szempontok/104
+		A minősítő vizsgálat feladata/105
+		A minősitő vizsgálat végrehajtása/105
+		A mintavételes vizsgálati eljárásnál megtűrt hibaszázalék/107
+	Záróminősítés/108
+	Állami átvételi vizsgálat és minősítés/108
+	Állami átvétel, zárómunkák/111
+Nyomdai sokszorosítás/113
+	Általános előírások/113
+	A sokszorosítás példányszáma/113
+	A sokszorosítás ellenőrzése/114
+	A nyomatok szétosztása/114

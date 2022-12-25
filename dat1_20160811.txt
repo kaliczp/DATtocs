@@ -1,0 +1,112 @@
+Tartalomjegyzék/4
+Előszó/7
+1. Bevezetés/8
+2. A digitális alaptérképek készítésének tervezése/10
+	2.1. Általános előírások/10
+	2.2. Felmérési tanulmány készítése/10
+		2.2.1. Az adatgyűjtés forráshelyei és az illetékes földhivatal szerepe/11
+		2.2.2. Forrásanyagok/12
+		2.2.3. A felmérés követelményeinek és feladatainak megfogalmazása/12
+		2.2.4. Átnézeti vázlat/14
+		2.2.5. Műszaki adatok/14
+		2.2.6. A Felmérési tanulmány véleményezése/15
+	2.3. A térképkészítésre vonatkozó pályázat/15
+	2.4. Műszaki terv/16
+		2.4.1. Műszaki tartalom/16
+		2.4.2. Minőségre vonatkozó garanciák/16
+		2.4.3. Határidők/17
+		2.4.4. Árajánlat/17
+	2.5. Vállalkozói megbízás/17
+3. A digitális alaptérkép előállításának általános előírásai/18
+	3.1. A digitális alaptérkép objektumainak azonosítása/18
+		3.1.1. Geodéziai pontok/19
+		3.1.2. Határok elnevezésű objektumosztály objektumainak azonosítása/20
+		3.1.3. Épületek, kerítések és tereptárgyak azonosítása/21
+		3.1.4. Közlekedési létesítmények azonosítása/23
+		3.1.5. Távvezetékek, függőpályák azonosítása/26
+		3.1.6. Vizek és vízügyi létesítmények azonosítása/27
+		3.1.7. A domborzat ábrázolása/28
+		3.1.8. Területkategóriák azonosítása/30
+	3.2. Település és belterület elhatárolása/31
+		3.2.1. Település és fővárosi kerület elhatárolása/31
+		3.2.2. Belterület határának elhatárolása/33
+		3.2.3. Nem EOV rendszerben lévő település és belterületi határpontok meghatározása/34
+	3.3. Földrészletek és alrészletek kialakítása és elhatárolása, művelési ágak megállapítása/34
+		3.3.1. A földrészletek kialakításának elvei/34
+		3.3.2. Földrészletek elhatárolása/37
+		3.3.3. A művelési ágak megállapítása, elhatárolása és az alrészletek kialakítása/38
+	3.4. Földrészletek helyrajziszámozása és alrészletek megjelölése/42
+		3.4.1. A helyrajziszámozás általános előírásai/42
+		3.4.2. Alrészletek megjelölése/43
+		3.4.3. Földrészletek változásával kapcsolatos helyrajziszámozás/43
+		3.4.4. Földrészletek átszámozása/47
+	3.5. Részletmérés/47
+		3.5.1. Tömbök, tömbcsoportok kialakítása/47
+		3.5.2. A részletmérés általános elvei/47
+		3.5.3. Mérési vázlat/48
+	3.6. Attribútumadatok gyűjtése/48
+	3.7. Adatminőségi adatok gyűjtése/49
+	3.8. Adatszolgáltatás a digitális alaptérkép készítéshez/49
+		3.8.1. A megyei földhivatal által szolgáltatandó munkarészek/50
+		3.8.2. A központi földmérési szervezet által szolgáltatandó munkarészek/51
+4. A digitális alaptérkép előállításának dokumentálása/51
+	4.1. A dokumentálás általános elvei és módszerei/51
+	4.2. A digitális alaptérképi állományok készítésének munkarészei/52
+		4.2.1. Általános és összefoglaló munkarészek/52
+		4.2.2. Pontsűrítési munkarészek/52
+		4.2.3. Vetületi átszámítási munkarészek/52
+		4.2.4. Fotogrammetriai munkarészek/52
+		4.2.5. Elhatárolási munkarészek/53
+		4.2.6. Részletmérési munkarészek és számítási dokumentációjuk/53
+		4.2.7. Digitális térképfelújítási és digitális átalakítási munkarészek/53
+		4.2.8. Térképek és másolatok/53
+	4.3. A Felmérési törzskönyv felépítése és bejegyzései/54
+		4.3.1. A Felmérési törzskönyv szerepe, felépítése és általános tartalma/54
+		4.3.2. A Felmérési törzskönyv vezetése/55
+		4.3.3. A digitális állomány ellenőrzésének és vizsgálatának dokumentálása/55
+		4.3.4. A számítógéppel készített munkarészek dokumentálása/56
+		4.3.5. Összefoglaló Műszaki leírás és Végleges adatok jegyzékének készítése/56
+		4.3.6. Végleges analóg és digitális munkarészek készítése/57
+5. Hitelesítés és állami átvétel/57
+	5.1. A minőségmeghatározás és minőségellenőrzés módszere/58
+		5.1.1. A digitális alaptérkép belső konzisztencia vizsgálata/58
+		5.1.2. A digitális alaptérkép külső konzisztencia vizsgálata/59
+		5.1.3. Tételes vizsgálat/59
+		5.1.4. Mintavételes vizsgálat/59
+		5.1.5. Megtűrt hibaszázalékok/63
+		5.1.6. A mintavételezés egy változata minőségellenőrzéshez/64
+		5.1.7. A digitális alaptérkép területi vizsgálata/66
+	5.2. A digitális alaptérkép belső vizsgálatának, minőségmeghatározásának, minőségellenőrzésének és az állami átvétel folyamatának általános elvei/68
+	5.3. Belső vizsgálatok és a minőségmeghatározás végrehajtása/69
+		5.3.1. A felmérő cégnél végrehajtandó belső vizsgálatok/69
+		5.3.2. A felmérő cég által végzendő minőségmeghatározás/70
+		5.3.3. Belső vizsgálat és minőségmeghatározás más szakterületek adatainak átvételekor/71
+		5.3.4. Belső vizsgálat és minőségmeghatározás digitális átalakításkor/72
+	5.4. Állami átvételi eljárás és záróminősítés/72
+		5.4.1. Általános elvek/72
+		5.4.2. Az állami átvételre való alkalmassági nyilatkozathoz és az állami átvételi eljáráshoz vizsgálatok és ellenőrzések végrehajtása/73
+		5.4.3. Elkészült digitális adatállományok bedolgozása a DAT adatbázisba/74
+6. A digitális alaptérkép változásvezetése/75
+7. A digitális alaptérkép adatszerkezete és adatcsereformátuma/75
+8. A digitális alaptérkép megjelenítése és nyomdai sokszorosítása/75
+	8.1. Az EOTR szerinti szelvényezés/75
+		8.1.1. Vetületi rendszer és alapszint/75
+		8.1.2. Koordináta-rendszer és szelvényezés/76
+		8.1.3. A térképszelvények országos számozása/76
+		8.1.4. Az alaptérkép méretaránya/77
+		8.1.5. Szelvényezés és településenkénti sorszámozás/77
+		8.1.6. A külterületi átnézeti térkép szelvényrendszere/78
+	8.2. Kirajzolás és alkalmazandó vonaltípusok/78
+		8.2.1. Síkrajzi kirajzolás/78
+		8.2.2. Domborzatrajzi kirajzolás/79
+		8.2.3. Szelvénykereten kívüli megírások, magyarázó ábrák/79
+		8.2.4. Szelvénykereten belüli megírások/81
+	8.3. Nyomdai sokszorosítás/84
+1. sz. függelék A Felmérési tanulmány kötelező tartalma/85
+2. sz. függelék Műszaki adatok (külterület/87
+3. sz. függelék Műszaki adatok (belterület/88
+4. sz. függelék Forrásanyagok minősítése/89
+5. sz. függelék Javaslat térképkészítési technológiára/90
+6. sz. függelék A Felmérési törzskönyv törzslapjainak tartalma/91
+7. sz. függelék Betétlapok/99
+8. sz. függelék Összefoglaló Végleges adatok jegyzéke tartalma/100

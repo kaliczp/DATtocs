@@ -1,0 +1,167 @@
+1. Bevezetés/2,FitWidth,100
+2. Rövidítések, adattípusok és a dátumok formátuma/3,FitWidth,100
+3. Az adatok kötelező és a választható használatának értelmezése/4,FitWidth,80
+4. DAT adatcsere-formátum/6,FitWidth,100
+A. függelék Geometriai alapelemek és topológiájuk táblázatai/7,FitPage
+	T_PONT Pont geometriai alapelemek táblázata/8,FitWidth,80
+	T_VONAL Vonal geometriai alapelemek táblázata/9,FitWidth,80
+	T_HATARVONAL Határvonal geometriai alapelemek táblázata/10,FitWidth,80
+	T_HATAR Határ geometriai alapelemek táblázata/11,FitWidth,80
+	T_FELULET Felület geometriai alapelemek táblázata/12,FitWidth,80
+	T_OSSZEKOT_IV Pontok összekötése adatainak táblázata/13,FitWidth,80
+	T_MEGSZ_DATUMG Geometriai alapelem adatrekordok érvényessége/13,FitWidth,435
+B. függelék Az objektumokat leíró táblázatok/14,FitPage
+	A osztály (Geodéziai pontok) és attribútumaik táblázata/16,FitPage
+		T_OBJ_ATTRAA Vízszintes és 3D geodéziai alappontok és attribútumaik táblázata/16,FitWidth,80
+		T_OBJ_ATTRAB Magassági geodéziai alappontok és attribútumaik táblázata/17,FitWidth,170
+		T_OBJ_ATTRAC Részletpontok és attribútumaik táblázata/18,FitWidth,269
+		T_OBJ_ATTRAD Címkoordináták és attribútumaik táblázata/19,FitWidth,80
+	B osztály (Határok) és attribútumaik táblázata/20,FitPage
+		T_OBJ_ATTRBA Közigazgatási egységek és attribútumaik táblázata/20,FitWidth,80
+		T_OBJ_ATTRBB Közigazgatási alegységek és attribútumaik táblázata/21,FitWidth,80
+		T_OBJ_ATTRBC Földrészletek I. (közterületi) és attribútumaik táblázata/22,FitWidth,80
+		T_OBJ_ATTRBD Földrészletek II. (nem közterületi) és attribútumaik táblázata/23,FitWidth,80
+		T_OBJ_ATTRBE Alrészletek, művelési ágak és attribútumaik táblázata/24,FitWidth,90
+		T_OBJ_ATTRBF Termőföld-minőségi osztályok és attribútumaik táblázata/25,FitWidth,85
+		T_OBJ_ATTRBG Egyéb önálló ingatlanok (EÖI) és attribútumaik táblázata/26,FitWidth,80
+		T_OBJ_ATTRBH Szolgalmi joggal érintett területek attribútumai/27,FitWidth,200
+		T_OBJ_ATTRBI Földminősítési mintaterek attribútumai/28,FitWidth,80
+	C osztály (Épületek, kerítések és tereptárgyak) és attribútumaik táblázata/29,FitPage
+		T_OBJ_ATTRCA Épületek és attribútumaik táblázata/29,FitWidth,87
+		T_OBJ_ATTRCB Épületek tartozékai és attribútumaik táblázata/30,FitWidth,87
+		T_OBJ_ATTRCC Kerítések, támfalak, földművek és attribútumaik táblázata/31,FitWidth,80
+		T_OBJ_ATTRCD Tereptárgyak, egyedi építmények és attribútumaik/32,FitWidth,80
+		T_OBJ_ATTRCE Köztéri szobrok, emlékművek, emlékhelyek és attribútumaik táblázata/33,FitWidth,80
+	D osztály (Közlekedési létesítmények) és attribútumaik táblázata/34,FitPage
+		T_OBJ_ATTRDA Közlekedési létesítmények azonosítópontjai és attribútumaik táblázata/34,FitWidth,80
+		T_OBJ_ATTRDB Belterületek közlekedési létesítményei és attribútumaik táblázata/35,FitWidth,80
+		T_OBJ_ATTRDC Külterületek közlekedési létesítményei és attribútumaik táblázata/36,FitWidth,80
+		T_OBJ_ATTRDD Vasutak és más kötöttpályás közlekedési létesítmények és attribútumaik táblázata/37,FitWidth,80
+		T_OBJ_ATTRDE Légiforgalmi létesítmények és attribútumaik táblázata/38,FitWidth,87
+		T_OBJ_ATTRDF Közlekedés műtárgyai (I.) és attribútumaik táblázata/39,FitWidth,80
+		T_OBJ_ATTRDG Közlekedés műtárgyai (II.) és attribútumaik táblázata/40,FitWidth,80
+	E osztály (Távvezetékek, függőpályák) és attribútumaik táblázata/41,FitPage
+		T_OBJ_ATTREA Távvezetékek, függőpályák tengelyvonalai és attribútumaik táblázata/41,FitWidth,80
+		T_OBJ_ATTREB Távvezetékek, függőpályák műtárgyai és attribútumaik táblázata/42,FitWidth,80
+	F osztály (Vizek és vízügyi létesítmények) és attribútumaik táblázata/43,FitPage
+		T_OBJ_ATTRFA Folyóvizek és állóvizek és attribútumaik táblázata/43,FitWidth,80
+		T_OBJ_ATTRFB Vízi közművek és attribútumaik táblázata/44,FitWidth,80
+		T_OBJ_ATTRFC Vízügyi műtárgyak és attribútumaik táblázata/45,FitWidth,80
+	G osztály (Domborzat) és attribútumaik táblázata/46,FitPage
+		T_OBJ_ATTRGA Szintvonalak és attribútumaik táblázata/46,FitWidth,80
+		T_OBJ_ATTRGB Domborzati alakzatok és attribútumaik táblázata/47,FitWidth,80
+		T_OBJ_ATTRGC Digitális domborzatmodell és attribútumainak táblázata/48,FitWidth,80
+	H osztály (Területkategóriák) és attribútumaik táblázata/49,FitPage
+		T_OBJ_ATTRHA Felmérési munkaterületek és attribútumaik táblázata/49,FitWidth,80
+		T_OBJ_ATTRHB DAT adatbázis kezelési egységek és attribútumaik táblázata/50,FitWidth,80
+		T_OBJ_ATTRHC Térség jellegű területek és attribútumaik táblázata/50,FitWidth,420
+	I osztály (Raszteres háttérinformáció) és attribútumaik táblázata/51,,FitPage
+		T_OBJ_ATTRIA EOV rendszerbe transzformált raszteres állományok és attribútumaik táblázata/51,FitWidth,80
+		T_OBJ_ATTRIB EOV rendszerbe transzformálható raszteres állományok és attribútumaik táblázata/52,FitWidth,80
+		T_OBJ_ATTRIC Egyéb, nem transzformálandó raszteres állományok és attribútumaik táblázata/53,FitWidth,80
+C. függelék Adatminőségi jellemzők táblázatai/54,FitPage
+	T_AHASZN_REG Tényleges adathasználat regisztrálandó adatainak táblázata/55,FitWidth,80
+	T_ATTRBIZN Attribútumféleségek meghatározási bizonytalanságának táblázata/56,FitWidth,80
+	T_ATTRELTER Attribútumértékek eltérési minőségadatainak táblázata/57,FitWidth,80
+	T_BIZALOM Bizalmas adatkezelés adatainak táblázata/58,FitWidth,80
+	T_DAT_KORL DAT-táblázatok és konkrét objektumok használatkorlátozási adatainak táblázata/59,FitWidth,80
+	T_EREDET Eredet adatminőségi jellemzőinek gyűjtőtáblázata/60,FitWidth,80
+	T_HITELES Hitelesítés és állami átvétel adatainak táblázata/61,FitWidth,80
+	T_KONZISZT Adatkonzisztencia jellemzőinek táblázata/62,FitWidth,80
+	T_MUVELET_REG DAT-ban végzett műveletek regisztrálandó adatainak táblázata/63,FitWidth,80
+	T_OSADATAL12 Ősadatállomány minőségadatainak táblázata/64,FitWidth,80
+	T_TELJESSEG Adatok teljességét leíró táblázat/66,FitWidth,80
+D. függelék Az objektumok és attribútumaik osztályozásának kódtáblázatai/67,FitPage
+	T_ATTR_CSOP Attribútumok csoportjainak kódtáblázata/68,FitWidth,80
+	T_OBJ_CSOP Objektumcsoportok kódtáblázata/69,FitWidth,80
+	T_OBJ_FELS Objektumféleségek kódtáblázata/70,FitWidth,80
+	T_OBJ_OSZT Objektumosztályok kódtáblázata/75,FitWidth,80
+E. függelék Gyűjtőtáblázatok/76,FitPage
+	T_CEG Cégek adatainak táblázata/77,FitWidth,80
+	T_CIM Postacímek táblázata/78,FitWidth,80
+	T_CIM_KULFOLD Külföldi címek táblázata/79,FitWidth,350
+	T_FELIRAT Magyarázó szövegek, feliratok és névrajzi megírások táblázata/80,FitWidth,80
+	T_FOLDRTULAJ_GY Földrészlettulajdonosok és tulajdonhányadaik gyűjtőtáblázata/81,FitWidth,80
+	T_HELYREALL_GY Alappontok helyreállítási adatainak gyűjtőtáblázata/82,FitWidth,95
+	T_HELYREALL_GYIO Iránypontok és őrpontok helyreállítási adatainak gyűjtőtáblázata/83,FitWidth,80
+	T_HELYSZIN_GY Alappontok helyszínelési adatainak gyűjtőtáblázata/84,FitWidth,80
+	T_HELYSZIN_GYIO Iránypontok és őrpontok helyszínelési adatainak gyűjtőtáblázata/85,FitWidth,80
+	T_IRANYPONT_GY Vízszintes alappontok iránypontjainak gyűjtőtáblázata/86,FitWidth,80
+	T_MAS_RENDSZER_GY Más (pl. régi) rendszerű koordináták és magasságok gyűjtőtáblázata/87,FitWidth,90
+	T_META Meta adatok gyűjtőtáblázata/88,FitWidth,80
+	T_MUVMIN_FOKOZAT Művelési ág és minőségi osztály szerinti fokozattábla/89,FitWidth,80
+	T_ORPONT_GY Magassági alappontok őrpontjainak gyűjtőtáblázata/90,FitWidth,250
+	T_SZEMELY Személyek adatainak táblázata/91,FitWidth,80
+	T_SZIMBOLUM Jelkulcsi jelek elforgatási és elhelyezési adatainak gyűjtőtáblázata/92,FitWidth,80
+F. függelék Kódtáblázatok/93,FitPage
+	T_ADATGY1 DAT előállítási és aktualizálási szemléletek kódtáblázata/95,FitWidth,80
+	T_ADATGY2 Geometriai terepi adatnyerés eszközeinek kódtáblázata/95,FitWidth,250
+	T_ADATGY3 Geometriai irodai adatnyerés eszközeinek kódtáblázata/95,FitWidth,500
+	T_ADATGY4 Attribútumadatok gyűjtésének kódtáblázata/96,FitWidth,80
+	T_ALAPAD_JELL Alapadatok jellegének kódtáblázata/96,FitWidth,350
+	T_ALLAPOT Vízszintes és magassági alappontok, iránypontjaik vagy őrpontjaik állapotának kódtáblázata/96,FitWidth,500
+	T_ANYAG_BURK Közlekedési létesítmény (legtöbbször burkolat) jellemző anyagának kódtáblázata/97,FitWidth,80
+	T_ANYAG_EP Épületek és tartozékaik jellemző anyagának kódtáblázata/97,FitWidth,500
+	T_ATHID_AKAD Áthidalt akadály vagy átsegített forgalom típusának kódtáblázata/98,FitWidth,100
+	T_ATHID_ALLAPOT Áthidaló közlekedési műtárgyak komplex állapotának kódtáblázata/98,FitWidth,500
+	T_ATHID_SZERK Áthidalások szerkezeti rendszereinek kódtáblázata/99,FitWidth,80
+	T_BECSLOJARAS Becslőjárások kódtáblázata/99,FitWidth,400
+	T_CEG_SZEREP Cégek DAT-hoz kapcsolódó szerepének kódtáblázata/103,FitWidth,300
+	T_ELHAT_JELL Elhatárolás jellegének kódtáblázata/104,FitWidth,150
+	T_ELHAT_MOD Elhatárolás módjának kódtáblázata/104,FitWidth,400
+	T_EOI_HELYISEG EÖI helyiségek megnevezéseinek kódtáblázata/104,FitWidth,600
+	T_EOI_TULFORM EÖI tulajdoni formák kódtáblázata/105,FitWidth,130
+	T_EPULET_ALT Épületek funkcionális altípusainak kódtáblázata/105,FitWidth,300
+	T_EPULET_TIP Épületek ingatlan-nyilvántartási típusainak kódtáblázata/106,FitWidth,280
+	T_FEKVES Fekvések kódtáblázata/107,FitWidth,80
+	T_FELIRAT_JELLEG Felirat jellegek kódtáblázata/107,FitWidth,290
+	T_FONT Betűtípusok (fontok) kódtáblázata/109,FitWidth,80
+	T_GEOM Objektum-kiterjedéshez tartozó "geometriai alapelem táblázat" kódtáblázata/109,FitWidth,800
+	T_HASZN_KORL Használatkorlátozások kódtáblázata/109,FitWidth,810
+	T_JELKULCS Jelkulcsok kódtáblázata/110,FitWidth,200
+	T_JOGALLAS Jogállás kódtáblázat/112,FitWidth,400
+	T_JOGI_JELLEG Jogi jellegek kódtáblázata/113,FitWidth,80
+	T_JOGSZ_UTASITAS Jogszabályi utasítások kódtáblázata/114,FitWidth,200
+	T_KORLAT Építési korlátozások szövegeinek kódtáblázata/115,FitWidth,130
+	T_KORZETI_FH Körzeti földhivatalok kódtáblázata/115,FitWidth,500
+	T_KOZEPHIBA A geodéziai pontok megengedett középhibáinak kódtáblázata/118,FitWidth,200
+	T_KOZTER_JELL Közterület jelleg kódtáblázata/119,FitWidth,200
+	T_KOZTER_NEV Közterület nevek kódtáblázata/122,FitWidth,80
+	T_KOZUTI_AZ Közúti azonosító pontok típusainak kódtáblázata/122,FitWidth,400
+	T_KSH_KOZIG Közigazgatási egységek KSH kódtáblázata/123,FitWidth,80
+	T_LETESITM_T Létesítmények jellemző teljesítményadatainak kódtáblázata/124,FitWidth,80
+	T_MAG_ALLAND Magassági alappontok állandósítási módjának kódtáblázata/125,FitWidth,80
+	T_MAG_ALLANDFA Föld alatti magassági pontok állandósítási módjának kódtáblázata/125,FitWidth,400
+	T_MEGHAT_MOD Geodéziai pontok meghatározási módjának kódtáblázata/126,FitWidth,80
+	T_MEGYEI_FH Megyei földhivatalok kódtáblázata/126,FitWidth,400
+	T_MINOSEG_OSZT Minőségi osztályok kódtáblázata/127,FitWidth,280
+	T_MERETARANY Térképi méretarányok kódtáblázata/127,FitWidth,600
+	T_MUVEL_AG Művelési ágak kódtáblázata/129,FitWidth,80
+	T_MUVELET_TARGY DAT-ban végezhető műveletek tárgyainak kódtáblázata/129,FitWidth,400
+	T_MUVELET_TIP DAT-ban az engedélyezett műveletek típusainak kódtáblázata/130,FitWidth,80
+	T_OSSZEKOT_KOD Összekötés módjának kódtáblázata/130,FitWidth,350
+	T_PONTVEDO Vízszintes alappontok pontvédő berendezéseinek kódtáblázata/131,FitWidth,80
+	T_REPTER_OSZT Légiforgalmi létesítmények osztálybasorolásának kódtáblázata/131,FitWidth,400
+	T_REPTER_TIP Légiforgalmi létesítmény típusainak kódtáblázata/132,FitWidth,80
+	T_RESZLET_ALLAND Részletpontok állandósítási módjának kódtáblázata/132,FitWidth,400
+	T_SZAK_NEV Létesítmények szakterületi számának és nevének kódtáblázata/133,FitWidth,80
+	T_SZEMELY_SZEREP Személyek DAT-hoz kapcsolódó szerepének kódtáblázata/134,FitWidth,80
+	T_SZERV_TIP Szervezet típusok kódtáblázata/135,FitWidth,80
+	T_SZERZES_JOG Szerzési jogcímek kódtáblázata/136,FitWidth,80
+	T_SZINT Épület- illetve lakásszintek kódtáblázata/141,FitWidth,80
+	T_SZOLG_JOG Szolgalmi jogok kódtáblázata/141,FitWidth,400
+	T_TEHER_JELZALOG Terhelés típusok (terhek, jelzálog) kódtáblázata/142,FitWidth,80
+	T_VALUTA Valuta nemek kódtáblázata/143,FitWidth,80
+	T_VASUT_TIP Vasúti típusok kódtáblázata/144,FitWidth,80
+	T_VED_SAV Védelmi sávok jellegét és adatait leíró szövegek kódtáblázata/145,FitWidth,80
+	T_VETULET Vetületi rendszerek kódtáblázata/145,FitWidth,500
+	T_VEZETEK_ALCS Vezetékek alcsoportjainak kódtáblázata/146,FitWidth,80
+	T_VIZSZ_ALLAND Vízszintes alappontok állandósítási módjának kódtáblázata/147,FitWidth,80
+	T_VOBJ_EGYED Vízügyi objektumazonosító kódból az egyedi azonosító kódok táblázata/149,FitWidth,80
+	T_VOBJ_FO_AL Vízügyi objektumazonosító kódból a főcsoportok és az alcsoportok kódtáblázata/149,FitWidth,300
+	T_VOBJ_NEVADO Vízügyi objektumazonosító kódból a névadó gazda kódok táblázata/151,FitWidth,180
+	T_VOBJ_RTERULET Vízügyi objektumazonosító kódból a részterület kódok táblázata/151,FitWidth,300
+	T_VONATK_R Vonatkozási rendszerek elnevezéseinek kódtáblázata/152,FitWidth,80
+G. függelék DAT adatcsere-formátum/153,FitWidth,80
+	Adatcsere-formátum táblázatai/155,FitWidth,80
+	A táblázatok kitöltését segítő néhány általános megjegyzés/158,FitWidth,125
