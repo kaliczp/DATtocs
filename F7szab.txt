@@ -1,7 +1,7 @@
-Tartalomjegyzék/4
-Jogszabálylista/8
-Általános rész/9
-	A földmérési térképek osztályozása/9
+Tartalomjegyzék/4,FitPage
+Jogszabálylista/8,FitPage
+Általános rész/9,FitPage
+	A földmérési térképek osztályozása/9,FitWidth,60
 	A földmérési alaptérkép és annak átnézeti térképei/9
 	A földmérési térképek rendszere/9
 		Vetületi rendszer és alapszint/9
@@ -19,48 +19,48 @@ Jogszabálylista/8
 	A földmérési alaptérkép alapponthálózata/13
 		Vízszintes alappontok/13
 		Vetületi átszámítások/14
-		Magassági alappontok/16
+		Magassági alappontok/16,FitWidth,150
 	Koordinátajegyzék/16
 		A koordinátajegyzék felfektetése/16
 		Részletpontok koordinátajegyzéke/17
-A földmérési alaptérkép tartalma/18
+A földmérési alaptérkép tartalma/18,FitPage
 	A földmérési alaptérkép tartalmának általános összefoglalása/18
 		A tartalomról általában/18
 		A különleges rendeltetésü ingatlanok/18
 		A felmérés idején bekövetkezett változások/19
-	A földmérési alaptérkép sikrajzi tartalmának részletezése/19
+	A földmérési alaptérkép sikrajzi tartalmának részletezése/19,FitWidth,200
 		Alap- és részletpontok/19
-			Alappontok/19
+			Alappontok/19,FitWidth,200
 			Részletpontok/20
-		Határvonalak/20
+		Határvonalak/20,FitWidth,600
 		Falak, támfalak, keritések, földművek stb./21
 		Épületek, építmények és tartozékaik/22
 		Közutak, utak, utcák, közterek/24
 		Vasutak, közúti villamos és műtárgyaik/26
 		Vizek, szigetek, vizekkel kapcsolatos létesítmények/27
 		Vezetékek, függőpályák/28
-		Aknák, barlangok, pincék, élőfák és egyéb tereptárgyak/29
-	Művelési ágak, halastó és művelés alól kivett területek/30
-		Szántó/30
-		Gyep/31
-		Szőlő/32
-		Kert/32
-		Gyümölcsös/32
-		Nádas/33
-		Erdő/33
-		Halastó/34
-		Művelés alól kivett terület/34
-	A földmérési alaptérképek domborzati tartalmának általános összefoglalása/38
+		Aknák, barlangok, pincék, élőfák és egyéb tereptárgyak/29,FitWidth,600
+	Művelési ágak, halastó és művelés alól kivett területek/30,FitWidth,430
+		Szántó/30,FitWidth,520
+		Gyep/31,FitWidth,60
+		Szőlő/32,FitWidth,100
+		Kert/32,FitWidth,420
+		Gyümölcsös/32,FitWidth,720
+		Nádas/33,FitWidth,360
+		Erdő/33,FitWidth,560
+		Halastó/34,FitWidth,750
+		Művelés alól kivett terület/34,FitWidth,820
+	A földmérési alaptérképek domborzati tartalmának általános összefoglalása/38,FitWidth,350
 		A domborzatábrázolás módja/38
 		A domborzatábrázolás tartalma/38
-	A földmérési alaptérkép domborzati tartalmának részletezése/38
+	A földmérési alaptérkép domborzati tartalmának részletezése/38,FitWidth,650
 		Magassági alappontok/38
 		Magassági részletpontok/39
 		A szintvonalas ábrázolás tartalmi előírásai/40
 		A kótált pontokkal történő magassági ábrázolás tartalmi előírásai/40
 		Jellel ábrázolandó domborzati elemek/41
 		A topográfiai térkép néhány – a domboszatátszerkesztéshez felhasználandó adatának értelmezése/42
-Az átnézeti térképek tartalma/43
+Az átnézeti térképek tartalma/43,FitPage
 	Az 1:10 000 méretarányú külterületi átnézeti térkép tartalma/43
 		Általános szempontok/43
 		Külterület/43
@@ -77,7 +77,7 @@ A község, a belterület és a zártkert elhatárolása/46
 		A belterület határvonalának egyeztetése uj felmérésnél és térképátalakításnál/49
 	A zártkert elhatárolása/50
 	A község és a fekvések határvonalának átszerkesztésével kapcsolatos irodai teendők térképátalakítás során/50
-Földrészletek kialakítása és elhatárolása, alrészletek, kialakítása/51
+Földrészletek kialakítása és elhatárolása, alrészletek, kialakítása/51,FitPage
 	A földrészletek kialakításának elvei/51
 	A földrészletek elhatárolása/53
 	Alrészletek kialakitása/56
@@ -86,14 +86,14 @@ Adatszolgáltatás a földmérési alaptérképkészítéshez/59
 		Földmérési munkarészek/59
 		Ingatlannyilvántartási munkarészek/59
 	A FÖMI Földmérési és Adattári Főosztálya által szolgáltatandó munkarészek/60
-Részletmérés/61
+Részletmérés/61,FitPage
 	Tömbök, tömbcsoportok kialakítása/61
-	A részletmérés általános elvei/61
-	Mérési vázlat (tömbrajz), részletmérési jegyzőkönyv/61
+	A részletmérés általános elvei/61,FitWidth,500
+	Mérési vázlat (tömbrajz), részletmérési jegyzőkönyv/61,FitWidth,500
 		Általános előírások/61
 		Domborzati kiegészitő mérések mérési vázlata/64
-		Az eredeti mérési vázlatok kezelése térképátalakítás során/64
-Térképezés/65
+		Az eredeti mérési vázlatok kezelése térképátalakítás során/64,FitWidth,850
+Térképezés/65,FitPage
 	Általános előírások/65
 	Kereten túli tépképezések, csatlakozások/66
 	Térképezés térképátalakítás esetén /67
@@ -117,7 +117,7 @@ Térképezés/65
  			Röviditések alkalmazása a megírásokban/79
 	Mérettartó müanyaglap-másolat és címlap készítése/79
 	Az 1:10 000 méretarányú külterületi átnézeti térkép előállítása/80
-Földrészletek helyrajziszámozása/81
+Földrészletek helyrajziszámozása/81,FitPage
 	A helyrajziszámozás általános előirásai/81
  			Vegyes rendelkezések/81
 			Külterületi földrészletek helyrajziszámozása/81
@@ -130,12 +130,12 @@ Földrészletek helyrajziszámozása/81
 	Helyrajziszámozás fekvéshatárvonal-változás esetén/84
 	A helyrajzi számok feltüntetése a térképen/84
 	Az alrészletek megjelölése/85
-Területszámítás/87
+Területszámítás/87,FitPage
 	Számítási alapelvek/87
 	Területszámítás új felmérés esetén/88
 	Területszámitás térképátalakítás esetén/89
 	Területjegyzék/90
-A földmérési alaptérkép pontossági előírásai/91
+A földmérési alaptérkép pontossági előírásai/91,FitPage
 	Vízszintes alappontok/91
 	Magassági alappontok és magassági illesztőpontok/92
 	Vízszintes részletpontok/92
@@ -145,7 +145,7 @@ A földmérési alaptérkép pontossági előírásai/91
 	Földrészlethatárra vonatkozó térkép- terepazonossági feltétel/95
 	Grafikus térképi átszerkesztések, digitalizálás/95
 	Területszámitás/96
-Készítendő munkarészek/99
+Készítendő munkarészek/99,FitPage
 	Általános megjegyzések/99
 	Az elektronikus számoló- és számitógépekkel végzett számítások dokumentálásának alapelvei/99
 	Általános munkarészek/100
@@ -155,7 +155,7 @@ Készítendő munkarészek/99
 	Síkrajz- és domborzatátszerkesztési munkarészek/101
 	Térképek/101
 	Területszámítási munkarészek/101
-A földmérési alaptérkép minőségének vizsgálata és tanúsítás/102
+A földmérési alaptérkép minőségének vizsgálata és tanúsítás/102,FitPage
 	A minőség vizsgálatának és tanúsításának általános elvei/102
 	A felmérést végző szerv belső vizsgálata/102
 		Általános szempontok/102
@@ -169,7 +169,7 @@ A földmérési alaptérkép minőségének vizsgálata és tanúsítás/102
 	Záróminősítés/108
 	Állami átvételi vizsgálat és minősítés/108
 	Állami átvétel, zárómunkák/111
-Nyomdai sokszorosítás/113
+Nyomdai sokszorosítás/113,FitPage
 	Általános előírások/113
 	A sokszorosítás példányszáma/113
 	A sokszorosítás ellenőrzése/114
