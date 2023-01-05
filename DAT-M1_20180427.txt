@@ -116,7 +116,7 @@ F. függelék Kódtáblázatok/93,FitPage
 	T_FEKVES Fekvések kódtáblázata/107,FitWidth,80
 	T_FELIRAT_JELLEG Felirat jellegek kódtáblázata/107,FitWidth,290
 	T_FONT Betűtípusok (fontok) kódtáblázata/109,FitWidth,80
-	T_GEOM Objektum-kiterjedéshez tartozó "geometriai alapelem táblázat" kódtáblázata/109,FitWidth,800
+	T_GEOM Objektum-kiterjedéshez tartozó "geometriai alapelem táblázat" kódtáblázata/109,FitWidth,620
 	T_HASZN_KORL Használatkorlátozások kódtáblázata/109,FitWidth,810
 	T_JELKULCS Jelkulcsok kódtáblázata/110,FitWidth,200
 	T_JOGALLAS Jogállás kódtáblázat/112,FitWidth,400
