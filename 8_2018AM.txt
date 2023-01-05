@@ -1,138 +1,136 @@
 1. Értelmező rendelkezések/1,FitWidth,420
 	1. §/1,FitWidth,450
 2. A földmérési és térképészeti adatok szolgáltatása/2,FitWidth,420
-	2. §/1,FitWidth,120
-	3. §/1,FitWidth,120
-3. A változási vázrajz és fajtái/4,FitWidth,375
-	4. §/1,FitWidth,120
+	2. §/2,FitWidth,440
+	3. §/2,FitWidth,600
+3. A változási vázrajz és fajtái/4,FitWidth,380
+	4. §/4,FitWidth,420
 4. A változási vázrajzok készítésére vonatkozó előírások/5,FitWidth,100
-	5. §/1,FitWidth,120
-	6. §/5,FitWidth,157
-	7. §/5,FitWidth,157
-	8. §/5,FitWidth,157
-	9. §/6,FitWidth,157
-	10. §/6,FitWidth,157
-	11. §/6,FitWidth,157
-	12. §/6,FitWidth,157
-	13. §/6,FitWidth,157
-	14. §/6,FitWidth,157
-	15. §/6,FitWidth,157
-	16. §/6,FitWidth,157
-	17. §/6,FitWidth,157
-	18. §/6,FitWidth,157
-5. Részletmérés/9,FitWidth,760
+	5. §/5,FitWidth,120
+	6. §/5,FitWidth,357
+	7. §/5,FitWidth,470
+	8. §/5,FitWidth,690
+	9. §/6,FitWidth,700
+	10. §/6,FitWidth,857
+	11. §/6,FitWidth,957
+	12. §/7,FitWidth,757
+	13. §/8,FitWidth,157
+	14. §/8,FitWidth,257
+	15. §/8,FitWidth,357
+	16. §/8,FitWidth,457
+	17. §/8,FitWidth,857
+	18. §/9,FitWidth,157
+5. Részletmérés/9,FitWidth,730
 	19. §/6,FitWidth,157
 	20. §/6,FitWidth,157
 	21. §/6,FitWidth,157
-6. Területszámítás/10,FitWidth,800
+6. Területszámítás/10,FitWidth,790
 	22. §/6,FitWidth,157
 	23. §/6,FitWidth,157
 7. Változási vázrajz készítése folyamatban lévő új állami földmérési alaptérkép készítése esetén/11,FitWidth,430
-	24. §/6,FitWidth,157
-8. Változási vázrajz az államhatár változásáról/11,FitWidth,620
-	25. §/11,FitWidth,557
-9. Változási vázrajz a közigazgatási egységek és fekvések határvonalának változásáról/11,FitWidth,800
-	26. §/11,FitWidth,657
-10. Változási vázrajz földrészletek határvonalának változásához/12,FitWidth,320
-	27. §/12,FitWidth,457
+	24. §/11,FitWidth,480
+8. Változási vázrajz az államhatár változásáról/11,FitWidth,660
+	25. §/11,FitWidth,690
+9. Változási vázrajz a közigazgatási egységek és fekvések határvonalának változásáról/11,FitWidth,780
+	26. §/11,FitWidth,797
+10. Változási vázrajz földrészletek határvonalának változásához/12,FitWidth,300
+	27. §/12,FitWidth,357
 11. Változási vázrajz épületfeltüntetéshez és -megszüntetéshez/12,FitWidth,460
-	28. §/12,FitWidth,157
-	29. §/12,FitWidth,157
+	28. §/12,FitWidth,477
+	29. §/12,FitWidth,557
 12. Változási vázrajz a művelési ág változásához/12,FitWidth,900
-	30. §/6,FitWidth,157
-13. Változási vázrajz a szolgalmi és egyéb használati jogok bejegyzéséhez vagy jogilag jelentős tények ingatlan-nyilvántartási feljegyzéséhez/13,FitWidth,320
-	31. §/13,FitWidth,457
-	32. §/13,FitWidth,157
+	30. §/12,FitWidth,927
+13. Változási vázrajz a szolgalmi és egyéb használati jogok bejegyzéséhez vagy jogilag jelentős tények ingatlan-nyilvántartási feljegyzéséhez/13,FitWidth,360
+	31. §/13,FitWidth,377
+	32. §/13,FitWidth,457
 14. Társasház- és szövetkezetiház-alaprajzok tartalma, megjelenítése/13,FitWidth,750
-	33. §/6,FitWidth,157
-	34. §/6,FitWidth,157
-	35. §/6,FitWidth,157
-	36. §/6,FitWidth,157
-	37. §/6,FitWidth,157
+	33. §/13,FitWidth,757
+	34. §/14,FitWidth,857
+	35. §/14,FitWidth,957
+	36. §/15,FitWidth,357
+	37. §/15,FitWidth,400
 15. Változási vázrajz önálló tulajdonú épület és pince feltüntetéséhez/15,FitWidth,420
-	38. §/6,FitWidth,157
-16. Földrészlet használati megosztása/15,FitWidth,500
-	39. §/6,FitWidth,157
-17. Földrészlet határvonalának kitűzése/15,FitWidth,620
-	40. §/6,FitWidth,157
-	41. §/6,FitWidth,157
-	42. §/6,FitWidth,157
-	43. §/6,FitWidth,157
-18. A változási állomány készítésének előírásai/16,FitWidth,620
-	44. §/6,FitWidth,157
-	45. §/6,FitWidth,157
-19. A változási vázrajz és műszaki dokumentáció/16,FitWidth,920
-	46. §/6,FitWidth,157
-20. A változási vázrajz vizsgálata és záradékolása/17,FitWidth,320
-	47. §/6,FitWidth,157
-	48. §/6,FitWidth,157
-	49. §/6,FitWidth,157
-	50. §/6,FitWidth,157
-	51. §/6,FitWidth,157
-	52. §/6,FitWidth,157
-	53. §/6,FitWidth,157
-	54. §/6,FitWidth,157
-21. Az állami alapadatok változásának nyilvántartása és a változások vezetése/19,FitWidth,320
-	55. §/6,FitWidth,157
-22. Felmérési, térképezési vagy területszámítási hiba kijavítása/20,FitWidth,40
-	56. §/6,FitWidth,157
-	57. §/6,FitWidth,157
-	58. §/6,FitWidth,157
-23. Teljes tömböt érintő felmérési vagy térképezési hiba kijavítása/21,FitWidth,620
-	59. §/6,FitWidth,157
-24. Közigazgatási határváltozás/21,FitWidth,980
-	60. §/6,FitWidth,157
-	61. §/6,FitWidth,157
-25. Műszaki határkiigazítás/22,FitWidth,420
-	62. §/6,FitWidth,157
-26. Közigazgatási határvonal megállapítása újfelmérés vagy térképfelújítás esetén/22,FitWidth,820
-	63. §/6,FitWidth,157
-27. Időszakonként végzett helyszínelések/23,FitWidth,80
-	64. §/6,FitWidth,157
-28. Metaadatok/23,FitWidth,520
-	65. §/6,FitWidth,157
-29. Záró rendelkezések/23,FitWidth,880
-	66. §/6,FitWidth,157
-	67. §/6,FitWidth,157
-	68. §/6,FitWidth,157
-	69. §/6,FitWidth,157
-	70. §/6,FitWidth,157
-	71. §/6,FitWidth,157
-	72. §/6,FitWidth,157
+	38. §/15,FitWidth,437
+16. Földrészlet használati megosztása/15,FitWidth,510
+	39. §/15,FitWidth,537
+17. Földrészlet határvonalának kitűzése/15,FitWidth,660
+	40. §/15,FitWidth,677
+	41. §/16,FitWidth,57
+	42. §/16,FitWidth,357
+	43. §/16,FitWidth,457
+18. A változási állomány készítésének előírásai/16,FitWidth,590
+	44. §/16,FitWidth,600
+	45. §/16,FitWidth,757
+19. A változási vázrajz és műszaki dokumentáció/16,FitWidth,840
+	46. §/16,FitWidth,857
+20. A változási vázrajz vizsgálata és záradékolása/17,FitWidth,270
+	47. §/17,FitWidth,280
+	48. §/17,FitWidth,900
+	49. §/18,FitWidth,57
+	50. §/18,FitWidth,357
+	51. §/18,FitWidth,457
+	52. §/18,FitWidth,657
+	53. §/18,FitWidth,857
+	54. §/18,FitWidth,957
+21. Az állami alapadatok változásának nyilvántartása és a változások vezetése/19,FitWidth,210
+	55. §/19,FitWidth,157
+22. Felmérési, térképezési vagy területszámítási hiba kijavítása/20,FitWidth,70
+	56. §/20,FitWidth,80
+	57. §/20,FitWidth,557
+	58. §/21,FitWidth,257
+23. Teljes tömböt érintő felmérési vagy térképezési hiba kijavítása/21,FitWidth,460
+	59. §/21,FitWidth,480
+24. Közigazgatási határváltozás/21,FitWidth,900
+	60. §/22,FitWidth,50
+	61. §/22,FitWidth,157
+25. Műszaki határkiigazítás/22,FitWidth,300
+	62. §/22,FitWidth,320
+26. Közigazgatási határvonal megállapítása újfelmérés vagy térképfelújítás esetén/22,FitWidth,540
+	63. §/22,FitWidth,600
+27. Időszakonként végzett helyszínelések/23,FitWidth,150
+	64. §/23,FitWidth,170
+28. Metaadatok/23,FitWidth,340
+	65. §/23,FitWidth,367
+29. Záró rendelkezések/23,FitWidth,700
+	66. §/23,FitWidth,720
+	67. §/23,FitWidth,740
+	68. §/23,FitWidth,750
+	69. §/23,FitWidth,800
 Mellékletek/24,FitPage
-	1. A földmérési és térképészeti adatigénylő lap tartalma ingatlan-nyilvántartási célra/24,FitWidth,80
-	2. A földmérési és térképészeti adatigénylő lap tartalma egyéb célra/25,FitWidth,120
-	3. A térképmásolat megrendelőlap tartalma/26,FitWidth,120
-	4. Pontkódok/27,FitWidth,420
-		1. Alappontok/28,FitWidth,220
-		2. Részletpontok/31,FitWidth,180
-	5. A területkimutatás borítójának tartalma/34,FitWidth,120
-	6. A területkimutatás tartalma/34,FitWidth,620
-	7. Megengedett eltérések a határvonalak jogi és természetbeni állapotának összehasonlítására/35,FitWidth,320
-		A részletpontok rendűsége/37,Fitwidth,480
-	8. A területszámítás hibahatárai EOTR ingatlan-nyilvántartási térkép digitális átalakításával készült adatbázis esetén/37,FitWidth,820
-	9. A területszámítás hibahatárai EOTR előtti vetületi rendszerű ingatlan-nyilvántartási térkép digitális átalakításával készült térképi adatbázis esetén/40,FitWidth,80
-	10. Mérési vázlatok/41,FitPage
-		A. A telekalakításhoz szükséges mérési vázlat tartalma/42,FitWidth,70
-		B. Épület feltüntetéshez szükséges mérési vázlat tartalma/42,FitWidth,800
-	11. A mérési és a kitűzési vázlaton alkalmazandó jelölések/43,FitWidth,620
-	12. Az államhatár vonalának változásáról készítendő változási vázrajz tartalma/44,FitWidth,820
-	13. Az államhatár változásáról készült változási vázrajzhoz készítendő területkimutatás tartalmáról/45,FitWidth,620
-	14. A közigazgatási határ vonalának változásáról készítendő változási vázrajz tartalma/46,FitWidth,720
-	15. Földrészletek határvonalának változásához készítendő változási vázrajz tartalma/47,FitWidth,620
+	1. A földmérési és térképészeti adatigénylő lap tartalma ingatlan-nyilvántartási célra/24,FitWidth,150
+	2. A földmérési és térképészeti adatigénylő lap tartalma egyéb célra/25,FitWidth,300
+	3. A térképmásolat megrendelőlap tartalma/26,FitWidth,330
+	4. Pontkódok/27,FitWidth,270
+		1. Alappontok/28,FitWidth,80
+		2. Részletpontok/31,FitWidth,60
+	5. A területkimutatás borítójának tartalma/34,FitWidth,70
+	6. A területkimutatás tartalma/34,FitWidth,495
+	7. Megengedett eltérések a határvonalak jogi és természetbeni állapotának összehasonlítására/35,FitWidth,280
+		A tűrési osztályok jelentése/37,FitWidth,220
+		A részletpontok rendűsége/37,FitWidth,430
+	8. A területszámítás hibahatárai EOTR ingatlan-nyilvántartási térkép digitális átalakításával készült adatbázis esetén/37,FitWidth,700
+	9. A területszámítás hibahatárai EOTR előtti vetületi rendszerű ingatlan-nyilvántartási térkép digitális átalakításával készült térképi adatbázis esetén/40,FitWidth,75
+	10. Mérési vázlatok/41,FitWidth,910
+		A. A telekalakításhoz szükséges mérési vázlat tartalma/42,FitWidth,80
+		B. Épület feltüntetéshez szükséges mérési vázlat tartalma/42,FitWidth,790
+	11. A mérési és a kitűzési vázlaton alkalmazandó jelölések/43,FitWidth,530
+	12. Az államhatár vonalának változásáról készítendő változási vázrajz tartalma/44,FitWidth,740
+	13. Az államhatár változásáról készült változási vázrajzhoz készítendő területkimutatás tartalmáról/45,FitWidth,550
+	14. A közigazgatási határ vonalának változásáról készítendő változási vázrajz tartalma/46,FitWidth,620
+	15. Földrészletek határvonalának változásához készítendő változási vázrajz tartalma/47,FitWidth,460
 	16. Földrészletek határvonalának változásához készítendő határrendezési vázrajz tartalma/48,FitWidth,320
-	17. Az épület feltüntetéshez készítendő változási vázrajz tartalma/49,FitWidth,320
-	18. Az önálló tulajdonú épületről vagy pincéről készült változási vázrajz tartalma/50,FitWidth,120
-	19. Művelésiág-változási vázrajz tartalma/50,FitWidth,900
-	20. Változási vázrajz több vagyonkezelői jog bejegyzéséhez vagy vázlat a jogilag jelentős tényeknek ingatlan-nyilvántartási feljegyzéséhez/51,FitWidth,720
-	21. A földrészletet terhelő szolgalmi jogok, földhasználati jog és telki szolgalmi jog bejegyzéséhez szükséges változási vázrajz tartalma/52,FitWidth,520
+	17. Az épület feltüntetéshez készítendő változási vázrajz tartalma/49,FitWidth,230
+	18. Az önálló tulajdonú épületről vagy pincéről készült változási vázrajz tartalma/50,FitWidth,100
+	19. Művelésiág-változási vázrajz tartalma/50,FitWidth,780
+	20. Változási vázrajz több vagyonkezelői jog bejegyzéséhez vagy vázlat a jogilag jelentős tényeknek ingatlan-nyilvántartási feljegyzéséhez/51,FitWidth,600
+	21. A földrészletet terhelő szolgalmi jogok, földhasználati jog és telki szolgalmi jog bejegyzéséhez szükséges változási vázrajz tartalma/52,FitWidth,400
 	22. A vezetékjog bejegyzéséhez szükséges változási vázrajz tartalma/53,FitWidth,220
 	23. A társasház, illetve szövetkezeti ház alaprajza/54,FitWidth,50
-	24. Használati megosztáshoz szükséges változási vázrajz tartalma/54,FitWidth,620
+	24. Használati megosztáshoz szükséges változási vázrajz tartalma/54,FitWidth,570
 	25. Helyszíni jegyzőkönyv tartalma a földrészlet határának kitűzéséről/55,FitWidth,320
-	26. Az Fttv. 14. § (8) bekezdése alapján készítendő kitűzési vázrajz tartalma/55,FitWidth,820
-	27. Földrészlet kitűzéséről készítendő vázlat tartalma/56,FitWidth,620
-	28. Földrészlet kitűzéséről készítendő vázrajz tartalma/57,FitWidth,220
-	29. A műszaki leírás tartalma/57,FitWidth,820
-	30. Vizsgálat és záradékolás iránti kérelem tartalma/58,FitWidth,720
-	31. Földmérési és térképészeti munkák bejelentése/59,FitWidth,30
+	26. Az Fttv. 14. § (8) bekezdése alapján készítendő kitűzési vázrajz tartalma/55,FitWidth,770
+	27. Földrészlet kitűzéséről készítendő vázlat tartalma/56,FitWidth,520
+	28. Földrészlet kitűzéséről készítendő vázrajz tartalma/57,FitWidth,180
+	29. A műszaki leírás tartalma/57,FitWidth,710
+	30. Vizsgálat és záradékolás iránti kérelem tartalma/58,FitWidth,320
+	31. Földmérési és térképészeti munkák bejelentése/59,FitWidth,60
