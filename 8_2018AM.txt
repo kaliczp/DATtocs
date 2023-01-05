@@ -1,0 +1,134 @@
+1. Értelmező rendelkezések/1,FitWidth,400
+	1. §/1,FitWidth,440
+2. A földmérési és térképészeti adatok szolgáltatása/2,FitWidth,220
+	2. §/1,FitWidth,120
+	3. §/1,FitWidth,120
+3. A változási vázrajz és fajtái/1,FitWidth,120
+	4. §/1,FitWidth,120
+4. A változási vázrajzok készítésére vonatkozó előírások/1,FitWidth,120
+	5. §/1,FitWidth,120
+	6. §/5,FitWidth,157
+	7. §/5,FitWidth,157
+	8. §/5,FitWidth,157
+	9. §/6,FitWidth,157
+	10. §/6,FitWidth,157
+	11. §/6,FitWidth,157
+	12. §/6,FitWidth,157
+	13. §/6,FitWidth,157
+	14. §/6,FitWidth,157
+	15. §/6,FitWidth,157
+	16. §/6,FitWidth,157
+	17. §/6,FitWidth,157
+	18. §/6,FitWidth,157
+5. Részletmérés/1,FitWidth,120
+	19. §/6,FitWidth,157
+	20. §/6,FitWidth,157
+	21. §/6,FitWidth,157
+6. Területszámítás/1,FitWidth,120
+	22. §/6,FitWidth,157
+	23. §/6,FitWidth,157
+7. Változási vázrajz készítése folyamatban lévő új állami földmérési alaptérkép készítése esetén/1,FitWidth,120
+	24. §/6,FitWidth,157
+8. Változási vázrajz az államhatár változásáról/1,FitWidth,120
+	25. §/6,FitWidth,157
+9. Változási vázrajz a közigazgatási egységek és fekvések határvonalának változásáról/1,FitWidth,120
+	26. §/6,FitWidth,157
+10. Változási vázrajz földrészletek határvonalának változásához/1,FitWidth,120
+	27. §/6,FitWidth,157
+11. Változási vázrajz épületfeltüntetéshez és -megszüntetéshez/1,FitWidth,120
+	28. §/6,FitWidth,157
+	29. §/6,FitWidth,157
+12. Változási vázrajz a művelési ág változásához/1,FitWidth,120
+	30. §/6,FitWidth,157
+13. Változási vázrajz a szolgalmi és egyéb használati jogok bejegyzéséhez vagy jogilag jelentős tények ingatlan-nyilvántartási feljegyzéséhez/1,FitWidth,120
+	31. §/6,FitWidth,157
+	32. §/6,FitWidth,157
+14. Társasház- és szövetkezetiház-alaprajzok tartalma, megjelenítése/1,FitWidth,120
+	33. §/6,FitWidth,157
+	34. §/6,FitWidth,157
+	35. §/6,FitWidth,157
+	36. §/6,FitWidth,157
+	37. §/6,FitWidth,157
+15. Változási vázrajz önálló tulajdonú épület és pince feltüntetéséhez/1,FitWidth,120
+	38. §/6,FitWidth,157
+16. Földrészlet használati megosztása/1,FitWidth,120
+	39. §/6,FitWidth,157
+17. Földrészlet határvonalának kitűzése/1,FitWidth,120
+	40. §/6,FitWidth,157
+	41. §/6,FitWidth,157
+	42. §/6,FitWidth,157
+	43. §/6,FitWidth,157
+18. A változási állomány készítésének előírásai/1,FitWidth,120
+	44. §/6,FitWidth,157
+	45. §/6,FitWidth,157
+19. A változási vázrajz és műszaki dokumentáció/1,FitWidth,120
+	46. §/6,FitWidth,157
+20. A változási vázrajz vizsgálata és záradékolása/1,FitWidth,120
+	47. §/6,FitWidth,157
+	48. §/6,FitWidth,157
+	49. §/6,FitWidth,157
+	50. §/6,FitWidth,157
+	51. §/6,FitWidth,157
+	52. §/6,FitWidth,157
+	53. §/6,FitWidth,157
+	54. §/6,FitWidth,157
+21. Az állami alapadatok változásának nyilvántartása és a változások vezetése/1,FitWidth,120
+	55. §/6,FitWidth,157
+22. Felmérési, térképezési vagy területszámítási hiba kijavítása/1,FitWidth,120
+	56. §/6,FitWidth,157
+	57. §/6,FitWidth,157
+	58. §/6,FitWidth,157
+23. Teljes tömböt érintő felmérési vagy térképezési hiba kijavítása/1,FitWidth,120
+	59. §/6,FitWidth,157
+24. Közigazgatási határváltozás/1,FitWidth,120
+	60. §/6,FitWidth,157
+	61. §/6,FitWidth,157
+25. Műszaki határkiigazítás/1,FitWidth,120
+	62. §/6,FitWidth,157
+26. Közigazgatási határvonal megállapítása újfelmérés vagy térképfelújítás esetén/1,FitWidth,120
+	63. §/6,FitWidth,157
+27. Időszakonként végzett helyszínelések/1,FitWidth,120
+	64. §/6,FitWidth,157
+28. Metaadatok/1,FitWidth,120
+	65. §/6,FitWidth,157
+29. Záró rendelkezések/1,FitWidth,120
+	66. §/6,FitWidth,157
+	67. §/6,FitWidth,157
+	68. §/6,FitWidth,157
+	69. §/6,FitWidth,157
+	70. §/6,FitWidth,157
+	71. §/6,FitWidth,157
+	72. §/6,FitWidth,157
+Mellékletek/1,FitWidth,120
+	1. melléklet/1,FitWidth,120/6,FitWidth,157
+	2. melléklet/1,FitWidth,120/6,FitWidth,157
+	3. melléklet/1,FitWidth,120/6,FitWidth,157
+	4. melléklet/1,FitWidth,120/6,FitWidth,157
+	5. melléklet/1,FitWidth,120/6,FitWidth,157
+	6. melléklet/1,FitWidth,120/6,FitWidth,157
+	7. melléklet/1,FitWidth,120/6,FitWidth,157
+	8. melléklet/1,FitWidth,120/6,FitWidth,157
+	9. melléklet/1,FitWidth,120/6,FitWidth,157
+	10. melléklet/1,FitWidth,120/6,FitWidth,157
+	11. melléklet/1,FitWidth,120/6,FitWidth,157
+	12. melléklet/1,FitWidth,120/6,FitWidth,157
+	13. melléklet/1,FitWidth,120/6,FitWidth,157
+	14. melléklet/1,FitWidth,120/6,FitWidth,157
+	15. melléklet/1,FitWidth,120/6,FitWidth,157
+	16. melléklet/1,FitWidth,120/6,FitWidth,157
+	17. melléklet/1,FitWidth,120/6,FitWidth,157
+	18. melléklet/1,FitWidth,120/6,FitWidth,157
+	19. melléklet/1,FitWidth,120/6,FitWidth,157
+	20. melléklet/1,FitWidth,120/6,FitWidth,157
+	21. melléklet/1,FitWidth,120/6,FitWidth,157
+	22. melléklet/1,FitWidth,120/6,FitWidth,157
+	23. melléklet/1,FitWidth,120/6,FitWidth,157
+	24. melléklet/1,FitWidth,120/6,FitWidth,157
+	25. melléklet/1,FitWidth,120/6,FitWidth,157
+	26. melléklet/1,FitWidth,120/6,FitWidth,157
+	27. melléklet/1,FitWidth,120/6,FitWidth,157
+	28. melléklet/1,FitWidth,120/6,FitWidth,157
+	29. melléklet/1,FitWidth,120/6,FitWidth,157
+	30. melléklet/1,FitWidth,120/6,FitWidth,157
+	31. melléklet/1,FitWidth,120/6,FitWidth,157
+	32. melléklet/1,FitWidth,120/6,FitWidth,157
