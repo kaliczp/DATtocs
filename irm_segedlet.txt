@@ -1,5 +1,6 @@
-Tartalom/3
-Alappont állandósítása/7
+Tartalom/2
+A segédletben használt ikonok jelentései/6,FitWidth,190
+Alappont állandósítása/7,FitWidth,95
 Alappont meghatározás dokumentálása/7
 Alappont meghatározás pontossági követelményei/7
 Alapponthálózati pontok/7
