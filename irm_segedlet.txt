@@ -1,0 +1,230 @@
+Tartalom/3
+Alappont állandósítása/7
+Alappont meghatározás dokumentálása/7
+Alappont meghatározás pontossági követelményei/7
+Alapponthálózati pontok/7
+Alapponthálózati pontok [adatbázisa]/7
+Alapponthálózati pontok [áthelyezése]/8
+Alapponthálózati pontok [helyszínelése]/8
+Alapponthálózati pontok [karbantartása]/8
+Alapponthálózati pontok [pótlása és megszüntetése]/8
+Államhatár/9
+Állami alapadatok adatbázisai/9
+Állami alapadatok szolgáltatása/9
+Állami alapadatok iratai/9
+Állami alapadatok, adatbázisok kezelése/10
+Állami alapfeladatok/10
+Állami alapmunkák/10
+Állami földmérési alaptérképi adatbázis/10
+Állami ingatlan-nyilvántartási térképi adatbázis/11
+Állami távérzékelési adatbázisok/11
+Alrészlet/11
+Archív analóg és digitális térképi adatok adatbázisai/12
+Átjárás tűrése/12
+Alappont meghatározás állami átvételi eljárása/12
+Bányatérkép/12
+Becslőjárás/13
+Beépítés/13
+Beépítés feltételei/13
+Bejegyzés/13
+Bejegyzési elv/14
+Bejelentési kötelezettség/14
+Belterületbe vonás/14
+Bendefy pontok számozása/15
+Birtok megszerzése/15
+Birtokátruházás/15
+Birtokláshoz való jog/15
+Birtokos/15
+Birtokvédelem/15
+Címadatok/16
+Címképzés/16
+Címkoordináta/17
+Digitális alaptérkép/17
+Domborzatmodell/17
+Domínium/17
+Egyesített telekalakítási eljárás/17
+Egyéb célú földmérési tevékenység/18
+Egységes országos magassági alapponthálózat létesítése (EOMA)/18
+Elbirtoklás/18
+Elidegenítési és terhelési tilalom/18
+Elő-, oldal- és hátsókert előírásai/19
+EOMA/20
+EOMA hálózat létrehozásának szempontjai/20
+EOMA IV. rendű hálózat/20
+EOMA pontjainak állandósítása/20
+EOMA pontjainak mérése/20
+EOMA pontjainak szemlélése/20
+EOMA pontok számozása/20
+EOTR műszaki paraméterei/20
+EOV/20
+EOV vetületi rendszer műszaki paraméterei/20
+Építmény/20
+Építésügyi hatósági eljárás/21
+Épület/21
+Épület tulajdonjoga/21
+Épületek közötti legkisebb távolság/21
+Épületfeltüntetés/22
+Épület megszüntetés/22
+Erdő/22
+Feljegyzés/22
+Fásított terület/23
+Felmérési alappontok meghatározása irány- és távméréses technológiával/23
+Felmérési, térképezési vagy területszámítási hiba kijavítása/23
+Föld tulajdonjoga/24
+Földhasználati nyilvántartás/24
+Földhasználati összesítő/24
+Földmérési és térinformatikai államigazgatási szerv/24
+Földmérési jel [áthelyezése, megszüntetése]/25
+Földmérési jel [bemutatása]/25
+Földmérési jel [elhelyezése]/25
+Földmérési jel [védelme]/25
+Földmérési jogosultság/25
+Földmérési munka bejelentési kötelezettsége/26
+Földmérési munka korlátozása/26
+Földmérési munka végzése/26
+Földmérési szakfelügyelői tevékenység/26
+Földmérő igazolvány/26
+Földminősítés célja/26
+Földminősítési rendszer/26
+Földműves nyilvántartás/27
+Földrajzinév-tár adatbázisa/27
+Földrészlet/27
+Földrészlet elhatárolása/27
+Földügyi igazgatás/28
+Földügyi igazgatás szervei/28
+Földmérési és térinformatikai államigazgatási szerv feladatai/28
+Földműves nyilvántartás/30
+Földrajzinév-tár/30
+FÖNYIR/30
+Geodéziai tervező/30
+Geokód/31
+GNSS/31
+GNSS alapponthálózat/31
+GNSS alkalmazásával végzett alappont-meghatározások/31
+GNSS mérés/31
+GNSS pontmeghatározás ellenőrzése/32
+Gravimetriai mérések végrehajtása/32
+Gyümölcsös/32
+Határokmányok/32
+Hegyközség/32
+Halastó/33
+Használatbavételi engedély/33
+Helyrajzi számozás szabályai/33
+Hites bányamérő/33
+Hozzáépítés/33
+INGA pontok [állandósítása]/33
+INGA pontok [pontleírása]/33
+INGA pontok [országos számozása]/34
+INGA pontok [pontvédőműve]/34
+Ingatlan/34
+Ingatlan-nyilvántartás/34
+Ingatlan-nyilvántartás nyilvánossága/34
+Ingatlan-nyilvántartás teljessége/34
+Ingatlan-nyilvántartási adatok/34
+Ingatlan-nyilvántartási célú földmérési tevékenység/34
+Ingatlan-nyilvántartási igény/35
+Ingatlan-nyilvántartási rangsor és ranghely/35
+Ingatlan-nyilvántartási térkép/35
+Ingatlan-nyilvántartáson kívül jogot szerző jogállása/35
+Ingatlanügyi hatósági feladatai/36
+Ingatlanrendező földmérő minősítés/36
+Ingatlanrendező földmérő minősítés [feltételei]/37
+Ingatlanrendező földmérő minősítés [korlátozása]/37
+Ingatlanrendező földmérő minősítés [meghosszabbítása]/37
+Ingatlanrendező földmérő minősítés [megvonása]/38
+Ingatlanrendező Minősítő Bizottság/38
+Ingatlanügyi hatóság/39
+Integrált országos geodéziai alaphálózat (INGA)/39
+Integrált országos geodéziai alaphálózat [meghatározása]/39
+Integrált országos geodéziai alaphálózat [pótlása]/39
+Ipari park/39
+Ipari terület/39
+Irány és távmérésen alapuló pontmeghatározás/40
+Járási és községi mintatérjegyzék/40
+Járási mintatér/40
+Jogi jelleg/40
+Jóhiszeműen és ellenérték fejében szerzők védelme/41
+Kataszteri tiszta jövedelem/41
+Kerítés elhelyezése/41
+Kert/42
+Kiemelt térség/42
+Kisajátítás/42
+Kisajátítási átnézeti térkép/43
+Kisajátítási célok és feltételek/43
+Kisajátítási eljárás/43
+Kisajátítási és telekalakítási eljárás megindítása/43
+Kisajátítási terv elemei/44
+Kisajátítási vázrajz tartalma/44
+Kisajátítással érintett ingatlan/44
+Kitűzés/44
+Közérdekű használat/44
+Közérdekű használati jogok/45
+Közhitelesség/45
+Közigazgatási határváltozás/45
+Közterület/46
+Közterület alakítás/46
+Közterület jellege/46
+Községi mintatér/46
+Különleges terület/46
+Legelő/46
+Megyei–fővárosi kormányhivatal (ingatlanügyi hatósági jogköre)/47
+Metaadatok/47
+Minőségi osztály/48
+Minősített adat/48
+Műszaki határkiigazítás/48
+Művelés alól kivett területek/48
+Művelési ág megváltoztatása/50
+Művelési ágak/50
+Nádas/50
+Négyszögöl/50
+Nyúlványos (nyeles) telek/51
+Okirati elv/51
+Osztályba sorozás/51
+Osztályozási vidék/51
+Pontátadási jegyzőkönyv/51
+Ráépítés/51
+Rangsor elve/51
+Rangsor és a ranghely/51
+Régió/51
+Részarány kiadás/52
+Részletmérés irány- és távmérés útján/52
+Rét/52
+Rosszhiszemű ráépítés/52
+Szántó/52
+Szőlő/52
+Tanya/52
+TakarNet/53
+TAKARNET/53
+Társasházi alaprajz tartalma/53
+Távérzékelési adatok/53
+Távérzékelési adatok állami átvétele/54
+Távérzékelési adatok felhasználása/54
+Távérzékelési engedélyeztetési eljárás/54
+Telek/54
+Telekalakítási hatóság [szakhatóság]/54
+Telekalakítás [díja]/55
+Telekalakítás [egyesített]/55
+Telekalakítás [célja]/55
+Telekalakítás/55
+Telekalakítás [fajtái]/56
+Telekalakítási kérelem/56
+Telekalakítási dokumentáció/57
+Telekalakítási engedélyezési eljárás/57
+Telekalakítási szempontok/57
+Telki szolgalmi jog/58
+Telki szolgalom/58
+Területrendezési terv/58
+Tömbtelek/59
+Tulajdoni lap/59
+Tulajdonjog védelme/61
+Túlépítés/61
+Új felmérés/61
+Újrahasznosítás/61
+Úszótelek (kialakítása)/61
+Változási vázrajz és változási vázlat fajtái/62
+Változási vázrajz és műszaki dokumentáció/62
+Változási vázrajz vizsgálata/62
+Vetületi rendszer/63
+Vonatkoztatási rendszerek/63
+Vonatkoztatási rendszerek/63
+Zártkert/63
