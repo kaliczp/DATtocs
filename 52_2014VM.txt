@@ -1,0 +1,16 @@
+1. Földmérő igazolvány/1,FitWidth,180
+2. Ingatlanrendező Minősítő Bizottság/2,FitWidth,415
+3. Ingatlanrendező földmérő minősítés feltételei/2,FitWidth,705
+4. Ingatlanrendező földmérő minősítés érvényesség meghosszabbítása/4,FitWidth,650
+5. Ingatlanrendező földmérő minősítés korlátozása és megszűnése/5,FitWidth,650
+6. Ingatlanrendező földmérő névjegyzék nyilvántartásának vezetése/6,FitWidth,680
+7. A földmérési és térinformatikai államigazgatási szerv által akkreditált szakirányú továbbképzések, konferenciák minősítési feltételei/7,FitWidth,220
+8. Földmérési szakfelügyelői tevékenység/8,FitWidth,530
+9. Záró rendelkezések/9,FitWidth,550
+1. melléklet Igénylőlap a földmérő igazolvány kiadásához/10,FitWidth,100
+2. melléklet Megbízólevél/10,FitWidth,700
+3. melléklet A földmérő igazolvány tartalmi elemei/11,FitWidth,210
+4. melléklet Adatlap az IRM igényléséhez/11,FitWidth,690
+5. melléklet Oklevél az ingatlanrendező földmérő minősítésről/13,FitWidth,700
+6. melléklet Az ingatlanrendező földmérő minősítő vizsga írásbeli és szóbeli vizsgakövetelményei/14,FitWidth,500
+7. mellékletKérelem IRM meghosszabbításához/14,FitWidth,700
